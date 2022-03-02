@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CrookedPortal.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EtsyAPIRefreshToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25090048.17uZp-Ua-J3h57vDTEJCQU5mc_R9tfoq6WabStEtv3WpV2rN8yEg35qhD583FHLN6ifDAbbeHkFhZuRGGStIG21QVJ7!</Value>
+    </Setting>
+    <Setting Name="EtsyAPIAccessToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25090048.0SGW8aZMApt0T72UWrzOW5c_kC9WbjrirvIT7y9EHuKtGB5EsFEL9mfkUWIzZLf11bQTdx9on7iyCIBOEpyfkyh0rXV</Value>
+    </Setting>
+    <Setting Name="Index" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
